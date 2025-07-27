@@ -1,0 +1,40 @@
+🚀 COMANDOS PARA DEPLOY - COPY/PASTE PRONTO
+===============================================
+
+📋 COMANDOS PARA TERMINAL (Windows):
+
+1️⃣ PREPARAR PROJETO:
+--------------------
+copy README_GITHUB.md README.md
+
+2️⃣ INICIALIZAR GIT:
+-------------------
+git init
+git add .
+git commit -m "Sistema PetShop - Versão inicial completa"
+
+3️⃣ CONECTAR COM GITHUB:
+-----------------------
+git remote add origin https://github.com/SEU-USUARIO/sistema-petshop.git
+git branch -M main
+git push -u origin main
+
+4️⃣ ATUALIZAÇÕES FUTURAS:
+------------------------
+git add .
+git commit -m "Atualização do sistema"
+git push origin main
+
+📝 LEMBRETE:
+- Substitua "SEU-USUARIO" pelo seu username do GitHub
+- Crie o repositório no GitHub antes de executar os comandos
+- Se der erro, verifique se o Git está instalado
+
+🌐 PRÓXIMOS PASSOS:
+1. Criar conta no GitHub
+2. Criar repositório público
+3. Executar comandos acima
+4. Fazer deploy no Streamlit Cloud
+5. Compartilhar URL e começar a vender!
+
+💰 BOA SORTE NAS VENDAS! 

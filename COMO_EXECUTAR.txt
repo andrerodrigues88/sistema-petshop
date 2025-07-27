@@ -1,0 +1,35 @@
+🐾 SISTEMA PETSHOP - COMO EXECUTAR
+=====================================
+
+📋 REQUISITOS:
+• Python 3.6 ou superior instalado
+• Sistema Windows, Linux ou macOS
+
+⚡ EXECUÇÃO RÁPIDA:
+
+1️⃣ INSTALAR PYTHON (se necessário):
+   • Windows: Baixe em python.org
+   • MARQUE: "Add Python to PATH" na instalação
+
+2️⃣ EXECUTAR O SISTEMA:
+   • Abra o terminal/prompt nesta pasta
+   • Digite: python main.py
+   • Ou: py main.py (Windows)
+
+3️⃣ DADOS DE EXEMPLO (opcional):
+   • Execute: python dados_exemplo.py
+   • Isso adiciona produtos, clientes e pets de teste
+
+🎯 FUNCIONALIDADES:
+✅ Gestão de Estoque
+✅ Cadastro de Clientes e Pets  
+✅ Sistema de Vendas
+✅ Agendamentos de Serviços
+✅ Relatórios Completos
+
+📞 DÚVIDAS:
+• Consulte o arquivo README.md
+• Certifique-se que Python está no PATH
+• No Windows, tente 'py' em vez de 'python'
+
+🚀 BOA GESTÃO! 

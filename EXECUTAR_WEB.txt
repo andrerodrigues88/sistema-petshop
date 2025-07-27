@@ -1,0 +1,91 @@
+🌐 SISTEMA PETSHOP WEB - COMO EXECUTAR
+=======================================
+
+🚀 VERSÃO WEB PROFISSIONAL - IDEAL PARA VENDER!
+
+📋 JÁ INSTALADO:
+✅ Python 3.13.5
+✅ Streamlit, Plotly, Pandas
+
+⚡ EXECUTAR SISTEMA WEB:
+
+1️⃣ COMANDO PRINCIPAL:
+   py -m streamlit run app.py
+
+2️⃣ ACESSO:
+   • O sistema abrirá automaticamente no navegador
+   • URL: http://localhost:8501
+   • Se não abrir, copie e cole a URL no navegador
+
+🎯 FUNCIONALIDADES WEB:
+
+🏠 DASHBOARD INTERATIVO:
+   • Gráficos em tempo real
+   • Estatísticas visuais
+   • Alertas automáticos
+
+📦 GESTÃO DE ESTOQUE:
+   • Interface moderna
+   • Filtros avançados
+   • Alertas visuais de estoque baixo
+
+👥 GESTÃO DE CLIENTES:
+   • Formulários intuitivos
+   • Busca rápida
+   • Edição inline
+
+🐕 GESTÃO DE PETS:
+   • Cadastro vinculado aos clientes
+   • Filtros por espécie
+   • Estatísticas visuais
+
+🛒 SISTEMA DE VENDAS:
+   • Carrinho interativo
+   • Busca de produtos em tempo real
+   • Controle automático de estoque
+
+📅 AGENDAMENTOS:
+   • Calendário visual
+   • Controle de status
+   • Agenda do dia
+
+📊 RELATÓRIOS VISUAIS:
+   • Gráficos interativos com Plotly
+   • Análises de vendas
+   • Estatísticas de pets
+   • Dashboards executivos
+
+🔥 DIFERENCIAIS PARA VENDA:
+
+✅ Interface Web Moderna e Profissional
+✅ Gráficos Interativos (Plotly)
+✅ Dashboard Executivo
+✅ Responsivo (Funciona em qualquer dispositivo)
+✅ Fácil de Demonstrar para Clientes
+✅ Pode ser Hospedado Online
+✅ Visual Atrativo para Vendas
+✅ Relatórios Profissionais
+
+💡 DICAS DE DEMONSTRAÇÃO:
+
+1. Mostre o DASHBOARD primeiro (impacta visualmente)
+2. Demonstre o sistema de VENDAS (carrinho interativo)
+3. Exiba os RELATÓRIOS com gráficos
+4. Teste os AGENDAMENTOS (agenda visual)
+5. Mostre os ALERTAS automáticos
+
+🌐 HOSPEDAGEM ONLINE:
+
+Para clientes, o sistema pode ser hospedado em:
+• Streamlit Cloud (gratuito)
+• Heroku
+• AWS/Google Cloud
+• Servidor próprio
+
+📞 COMANDOS ÚTEIS:
+
+• Parar: Ctrl+C no terminal
+• Reiniciar: py -m streamlit run app.py
+• Dados de exemplo: py dados_exemplo.py
+
+🚀 AGORA É SÓ VENDER! 💰 

@@ -1,0 +1,18 @@
+# Sistema PetShop - Dependências Python
+
+# === VERSÃO WEB ===
+streamlit>=1.28.0
+plotly>=5.15.0
+pandas>=1.5.0
+
+# === VERSÃO LINHA DE COMANDO ===
+# Bibliotecas nativas do Python (já incluídas):
+# - sqlite3 (banco de dados)
+# - datetime (manipulação de datas)
+# - os (operações do sistema)
+# - sys (sistema)
+# - re (expressões regulares)
+
+# === COMO EXECUTAR ===
+# Versão Web: streamlit run app.py
+# Versão Terminal: python main.py (ou py main.py no Windows) 
