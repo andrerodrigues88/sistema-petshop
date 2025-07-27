@@ -7,7 +7,7 @@
 
 ## 🚀 **DEMONSTRAÇÃO ONLINE**
 
-**👉 [ACESSE O SISTEMA FUNCIONANDO](https://sua-url-streamlit.streamlit.app)**
+**👉 [ACESSE O SISTEMA FUNCIONANDO](https://sistema-petshop-andrerodrigues88.streamlit.app)**
 
 *Sistema de gestão completo para petshops com interface web moderna e profissional.*
 
